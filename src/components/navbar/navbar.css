@@ -1,0 +1,10 @@
+li {
+  display: inline-block;
+  margin: 1rem;
+  list-style-type: none;
+  text-align: center;
+  margin-left: 10rem;
+}
+#head {
+  float: left;
+}
